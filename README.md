@@ -15,7 +15,14 @@
 ## Результаты
 В ходе тестирования выведено 70% успешных и 30% не успешны тестов.
 
-Ссылка на баг-репорт: https://github.com/AleksandraArt/hwjava/issues/1
+Ссылка на баг-репорт:
+[https://github.com/AleksandraArt/hwjava/issues/1](https://github.com/AleksandraArt/hwjava/issues/1)
+[https://github.com/AleksandraArt/hwjava/issues/1](https://github.com/AleksandraArt/hwjava/issues/1 "Necorrecntnaya validacia")
+[https://github.com/AleksandraArt/hwjava/issues/1][Necorrectnaya validacia]
+[https://github.com/AleksandraArt/hwjava/issues/1](AleksandraArt/hwjava/issue/1)
+[https://github.com/AleksandraArt/hwjava/issues/1][1]
+https://github.com/AleksandraArt/hwjava/issues/1
+
 
 ## Общие рекомендации
 Следует произвести доработку функции приложения принятия валидных и искючения принятия невалидных ключей.
